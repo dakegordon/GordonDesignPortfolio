@@ -727,7 +727,7 @@ table {
 .ch-info .ch-info-back {
 	opacity: 0;
 
-	background: #223e87;
+	background: #62a7e6;
 	pointer-events: none;
 	
 	-webkit-transform: scale(1.5);
@@ -780,18 +780,18 @@ table {
 
 .ch-info p a {
 	display: block;
-	color: #e7615e;
+	color: #fff;
 	font-style: normal;
 	font-weight: 700;
 	text-transform: uppercase;
-	font-size: 9px;
+	font-size:16px;
 	letter-spacing: 1px;
 	padding-top: 4px;
 	font-family: 'Open Sans', Arial, sans-serif;
 }
 
 .ch-info p a:hover {
-	color: #fff;
+	color: #3e4145;
 }
 
 .ch-item:hover .ch-info-front {
